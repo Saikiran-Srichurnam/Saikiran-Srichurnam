@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saikiran Srichurnam</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saikiran-Srichurnam/TodoApp/main/screenshots/dev-banner-stickers.gif" alt="Developer banner with tech stickers" width="100%"/>
+  <img src="./assets/saikiran-coding.png" alt="Developer with Tech Logos on Laptop" width="70%" />
 </p>
 
 <p align="center">
@@ -51,4 +51,3 @@
 ---
 
 > 🔨 Currently adding more React and Vite projects — stay tuned!
-
