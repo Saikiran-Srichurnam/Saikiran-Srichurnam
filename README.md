@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saikiran Srichurnam</h1>
 
 <p align="center">
-  <img src="./assets/saikiran-coding.png" alt="Developer with Tech Logos on Laptop" width="70%" />
+  <img src=""C:\Users\SRICHURNAM SAIKIRAN\Downloads\ChatGPT Image Jun 20, 2025, 10_04_13 AM.png"" alt="Developer with Tech Logos on Laptop" width="70%" />
 </p>
 
 <p align="center">
