@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saikiran Srichurnam</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Saikiran-Srichurnam/TodoApp/main/screenshots/dev-banner-stickers.gif" alt="Developer banner with tech stickers" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=38BDF8&width=435&lines=Frontend+Developer;React+%7C+Vite+%7C+Tailwind+Lover;Building+clean+and+responsive+UIs" alt="Typing SVG" />
 </p>
 
@@ -21,12 +25,15 @@
 
 ### 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40"/>
+  <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub" title="GitHub" width="40"/>
+</p>
 
 ---
 
@@ -44,5 +51,4 @@
 ---
 
 > 🔨 Currently adding more React and Vite projects — stay tuned!
-
 
