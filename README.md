@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saikiran Srichurnam</h1>
 
 <p align="center">
-  <img src="./dev-banner" alt="Developer with Tech Logos on Laptop" width="50%" height="50%" />
+  <img src="./dev-banner" alt="Developer with Tech Logos on Laptop" width="30%" height="30%" />
 </p>
 
 <p align="center">
